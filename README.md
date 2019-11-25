@@ -14,6 +14,11 @@ npm install
 pip install -r requirements.txt
 ```
 
+Configure Google Vision Credentials
+```
+export GOOGLE_APPLICATION_CREDENTIALS=PATH_TO_KEY_FILE
+```
+
 Start Flask Server
 
 ```
